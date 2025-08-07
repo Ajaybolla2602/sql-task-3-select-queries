@@ -25,9 +25,13 @@ SELECT * FROM orders WHERE order_date BETWEEN '2023-01-01' AND '2023-12-31';
 
 -- Get top 5 most expensive products
 SELECT * FROM products ORDER BY price DESC LIMIT 5;
+
+
 📌 Outcome
 A solid understanding of how to retrieve, filter, and sort data using SQL queries.
 
+
 Feel free to explore and modify the queries for your own learning!
+
 
 
